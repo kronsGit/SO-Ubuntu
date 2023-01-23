@@ -17,3 +17,8 @@ body{
 h1{
     font-size: 5rem;
 }
+
+#cabecera h2{
+    width: 100%;
+    background: blueviolet;
+}
