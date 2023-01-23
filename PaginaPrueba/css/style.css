@@ -1,8 +1,19 @@
 body{
     color: black;
-    background: rebeccapurple;
+    background: rgb(247, 247, 247);
     display: flex;
     justify-content: center;
     text-align: center;
     flex-direction: column;
+}
+
+.container{
+    display: inline-block;
+    width: 80%;
+    border: 2px solid black;
+    margin: auto;
+}
+
+h1{
+    font-size: 5rem;
 }
